@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/horror-movie-quiz/static/css/main.92bf49f2.chunk.css",
-    "main.js": "/horror-movie-quiz/static/js/main.a63e4511.chunk.js",
-    "main.js.map": "/horror-movie-quiz/static/js/main.a63e4511.chunk.js.map",
+    "main.js": "/horror-movie-quiz/static/js/main.bea35220.chunk.js",
+    "main.js.map": "/horror-movie-quiz/static/js/main.bea35220.chunk.js.map",
     "runtime-main.js": "/horror-movie-quiz/static/js/runtime-main.15f235ec.js",
     "runtime-main.js.map": "/horror-movie-quiz/static/js/runtime-main.15f235ec.js.map",
     "static/js/2.5c54db42.chunk.js": "/horror-movie-quiz/static/js/2.5c54db42.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.15f235ec.js",
     "static/js/2.5c54db42.chunk.js",
     "static/css/main.92bf49f2.chunk.css",
-    "static/js/main.a63e4511.chunk.js"
+    "static/js/main.bea35220.chunk.js"
   ]
 }
