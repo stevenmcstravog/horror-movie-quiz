@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/horror-movie-quiz/static/css/main.92bf49f2.chunk.css",
+    "main.js": "/horror-movie-quiz/static/js/main.a63e4511.chunk.js",
+    "main.js.map": "/horror-movie-quiz/static/js/main.a63e4511.chunk.js.map",
+    "runtime-main.js": "/horror-movie-quiz/static/js/runtime-main.15f235ec.js",
+    "runtime-main.js.map": "/horror-movie-quiz/static/js/runtime-main.15f235ec.js.map",
+    "static/js/2.5c54db42.chunk.js": "/horror-movie-quiz/static/js/2.5c54db42.chunk.js",
+    "static/js/2.5c54db42.chunk.js.map": "/horror-movie-quiz/static/js/2.5c54db42.chunk.js.map",
+    "index.html": "/horror-movie-quiz/index.html",
+    "static/css/main.92bf49f2.chunk.css.map": "/horror-movie-quiz/static/css/main.92bf49f2.chunk.css.map",
+    "static/js/2.5c54db42.chunk.js.LICENSE.txt": "/horror-movie-quiz/static/js/2.5c54db42.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15f235ec.js",
+    "static/js/2.5c54db42.chunk.js",
+    "static/css/main.92bf49f2.chunk.css",
+    "static/js/main.a63e4511.chunk.js"
+  ]
+}
